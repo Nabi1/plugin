@@ -1,0 +1,26 @@
+# Dépendances Node
+node_modules/
+
+# Dossiers de build / dist
+/dist
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environnement local
+.env
+.env.local
+
+# Fichiers de l'éditeur
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Fichiers de configuration spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de sauvegarde créés par certains éditeurs de texte
+*~
